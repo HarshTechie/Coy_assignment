@@ -1,0 +1,497 @@
+[
+  {
+    "id": "profile_01",
+    "name": "Ananya",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Architect by day, amateur stand-up comic by night. I will judge your bookshelf.",
+    "location": "Mumbai",
+    "interests": [
+      "Architecture",
+      "Stand-up",
+      "Books",
+      "Chai"
+    ],
+    "likedUser": true
+  },
+  {
+    "id": "profile_02",
+    "name": "Rohan",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Final-year PhD student. Fluent in Python, broken Spanish and dad jokes.",
+    "location": "IIT Bombay",
+    "interests": [
+      "Research",
+      "Football",
+      "Spanish",
+      "Board Games"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_03",
+    "name": "Meera",
+    "age": 22,
+    "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Literature major with strong opinions about poetry and pani puri.",
+    "location": "Delhi University",
+    "interests": [
+      "Poetry",
+      "Street Food",
+      "Theatre",
+      "Journaling"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_04",
+    "name": "Ishita",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "UX designer. Weekend trekker. Currently learning to make the perfect filter coffee.",
+    "location": "Pune",
+    "interests": [
+      "Design",
+      "Trekking",
+      "Coffee",
+      "Photography"
+    ],
+    "likedUser": true
+  },
+  {
+    "id": "profile_05",
+    "name": "Kabir",
+    "age": 26,
+    "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Startup founder who still makes time for Sunday cricket and long drives.",
+    "location": "Bengaluru",
+    "interests": [
+      "Startups",
+      "Cricket",
+      "Road Trips",
+      "Podcasts"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_06",
+    "name": "Sanya",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Fashion student with a thrift-store addiction. Tell me your favourite film.",
+    "location": "NIFT Delhi",
+    "interests": [
+      "Fashion",
+      "Thrifting",
+      "Cinema",
+      "Sketching"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_07",
+    "name": "Tara",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Marine biologist. I can name every fish you see on our first beach date.",
+    "location": "Goa",
+    "interests": [
+      "Ocean",
+      "Scuba",
+      "Sustainability",
+      "Yoga"
+    ],
+    "likedUser": true
+  },
+  {
+    "id": "profile_08",
+    "name": "Vikram",
+    "age": 27,
+    "photo": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Data scientist and part-time guitarist. My biryani takes are non-negotiable.",
+    "location": "Hyderabad",
+    "interests": [
+      "Guitar",
+      "Biryani",
+      "Data",
+      "Running"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_09",
+    "name": "Diya",
+    "age": 22,
+    "photo": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Psychology student. Good listener, better playlist curator.",
+    "location": "Christ University",
+    "interests": [
+      "Psychology",
+      "Playlists",
+      "Dance",
+      "Cats"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_10",
+    "name": "Aditya",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Marathoner and filter-coffee loyalist. Training for my third full marathon.",
+    "location": "Chennai",
+    "interests": [
+      "Marathons",
+      "Coffee",
+      "Tech",
+      "Travel"
+    ],
+    "likedUser": true
+  },
+  {
+    "id": "profile_11",
+    "name": "Nisha",
+    "age": 26,
+    "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Doctor in residency. If I reply late, I am probably saving someone.",
+    "location": "Kolkata",
+    "interests": [
+      "Medicine",
+      "Rabindra Sangeet",
+      "Painting",
+      "Food"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_12",
+    "name": "Karan",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Consultant who escapes to the mountains every chance he gets.",
+    "location": "Gurugram",
+    "interests": [
+      "Mountains",
+      "Finance",
+      "Camping",
+      "Whisky"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_13",
+    "name": "Riya",
+    "age": 21,
+    "photo": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "CS undergrad, hackathon regular, karaoke menace.",
+    "location": "BITS Pilani",
+    "interests": [
+      "Hackathons",
+      "Karaoke",
+      "Anime",
+      "Coding"
+    ],
+    "likedUser": true
+  },
+  {
+    "id": "profile_14",
+    "name": "Aarav",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1504257432389-52343af06ae3?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Photographer chasing golden hour across Gujarat. Ask me about kite festivals.",
+    "location": "Ahmedabad",
+    "interests": [
+      "Photography",
+      "Kites",
+      "Travel",
+      "Street Food"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_15",
+    "name": "Kavya",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Classical dancer and software tester. I find bugs and rhythm everywhere.",
+    "location": "Kochi",
+    "interests": [
+      "Bharatanatyam",
+      "Testing",
+      "Beaches",
+      "Books"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_16",
+    "name": "Dev",
+    "age": 26,
+    "photo": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Chef at a small bistro. I will cook, you pick the movie.",
+    "location": "Mumbai",
+    "interests": [
+      "Cooking",
+      "Movies",
+      "Wine",
+      "Jazz"
+    ],
+    "likedUser": true
+  },
+  {
+    "id": "profile_17",
+    "name": "Aisha",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Journalism student. Curious about everything, especially you (maybe).",
+    "location": "Jamia Millia",
+    "interests": [
+      "Journalism",
+      "Debate",
+      "Museums",
+      "Coffee"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_18",
+    "name": "Neel",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1552058544-f2b08422138a?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Mechanical engineer who restores old motorcycles. Grease on my hands, music in my ears.",
+    "location": "Pune",
+    "interests": [
+      "Motorcycles",
+      "Rock",
+      "DIY",
+      "Road Trips"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_19",
+    "name": "Pooja",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Runs a pottery studio. Looking for someone who does not mind clay everywhere.",
+    "location": "Jaipur",
+    "interests": [
+      "Pottery",
+      "Art",
+      "Plants",
+      "Heritage Walks"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_20",
+    "name": "Siddharth",
+    "age": 27,
+    "photo": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Backend engineer, board-game hoarder and occasional bad poet.",
+    "location": "Bengaluru",
+    "interests": [
+      "Board Games",
+      "Backend",
+      "Poetry",
+      "Craft Beer"
+    ],
+    "likedUser": true
+  },
+  {
+    "id": "profile_21",
+    "name": "Zara",
+    "age": 22,
+    "photo": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Law student, aspiring diplomat. I argue for fun but I am a sweetheart, promise.",
+    "location": "Symbiosis Pune",
+    "interests": [
+      "Law",
+      "Debate",
+      "Travel",
+      "Languages"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_22",
+    "name": "Arnav",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1521119989659-a83eee488004?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Pilot in training. I will always pick the window seat for you.",
+    "location": "Chandigarh",
+    "interests": [
+      "Aviation",
+      "Fitness",
+      "Travel",
+      "Sunsets"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_23",
+    "name": "Myra",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Product manager who reads three books at once and finishes none.",
+    "location": "Delhi",
+    "interests": [
+      "Books",
+      "Product",
+      "Pilates",
+      "Brunch"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_24",
+    "name": "Yash",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Robotics club lead. Building a robot that makes chai. 60% done.",
+    "location": "NIT Trichy",
+    "interests": [
+      "Robotics",
+      "Chai",
+      "Sci-fi",
+      "Badminton"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_25",
+    "name": "Aditi",
+    "age": 26,
+    "photo": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Climate researcher and weekend gardener. Plant parent of 23.",
+    "location": "Bengaluru",
+    "interests": [
+      "Climate",
+      "Gardening",
+      "Cycling",
+      "Documentaries"
+    ],
+    "likedUser": true
+  },
+  {
+    "id": "profile_26",
+    "name": "Rahul",
+    "age": 28,
+    "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Investment banker learning to slow down. Teach me your favourite recipe?",
+    "location": "Mumbai",
+    "interests": [
+      "Finance",
+      "Cooking",
+      "Squash",
+      "Jazz"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_27",
+    "name": "Sneha",
+    "age": 23,
+    "photo": "https://images.unsplash.com/photo-1513956589380-bad6acb9b9d4?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Med student who sings in a college band. Harmonies > arguments.",
+    "location": "Manipal",
+    "interests": [
+      "Singing",
+      "Medicine",
+      "Beaches",
+      "Baking"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_28",
+    "name": "Ayaan",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Urdu poetry enthusiast and kebab connoisseur. Old soul, new playlist.",
+    "location": "Lucknow",
+    "interests": [
+      "Urdu Poetry",
+      "Food",
+      "History",
+      "Music"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_29",
+    "name": "Priya",
+    "age": 25,
+    "photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Game developer. I will absolutely beat you at Mario Kart.",
+    "location": "Hyderabad",
+    "interests": [
+      "Gaming",
+      "Game Dev",
+      "Anime",
+      "Bubble Tea"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_30",
+    "name": "Ishaan",
+    "age": 26,
+    "photo": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Outdoor educator. I know a trail for every mood.",
+    "location": "Dehradun",
+    "interests": [
+      "Trekking",
+      "Camping",
+      "Birdwatching",
+      "Coffee"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_31",
+    "name": "Naina",
+    "age": 27,
+    "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Engineering manager, salsa dancer, and an unapologetic dog person.",
+    "location": "Bengaluru",
+    "interests": [
+      "Salsa",
+      "Dogs",
+      "Leadership",
+      "Coffee"
+    ],
+    "likedUser": true
+  },
+  {
+    "id": "profile_32",
+    "name": "Reyansh",
+    "age": 24,
+    "photo": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "MBA student. Spreadsheets by day, sketchbook by night.",
+    "location": "IIM Ahmedabad",
+    "interests": [
+      "Sketching",
+      "Strategy",
+      "Tennis",
+      "Coffee"
+    ],
+    "likedUser": false
+  },
+  {
+    "id": "profile_33",
+    "name": "Tanvi",
+    "age": 22,
+    "photo": "https://images.unsplash.com/photo-1554151228-14d9def656e4?w=720&h=960&fit=crop&crop=faces&q=80",
+    "bio": "Economics student who runs a tiny bookstagram. Recommend me something?",
+    "location": "St. Xavier's Mumbai",
+    "interests": [
+      "Books",
+      "Economics",
+      "Art Cafés",
+      "Running"
+    ],
+    "likedUser": false
+  }
+]

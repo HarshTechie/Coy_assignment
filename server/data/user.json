@@ -1,0 +1,18 @@
+{
+  "id": "demo-user",
+  "name": "Harsh",
+  "age": 24,
+  "photo": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?w=720&h=960&fit=crop&crop=faces&q=80",
+  "bio": "Product engineer who bakes sourdough on weekends. Looking for someone to explore new cafés with.",
+  "location": "Bengaluru",
+  "interests": [
+    "Coffee",
+    "Baking",
+    "Hiking",
+    "Indie Music",
+    "Photography",
+    "Fitness",
+    "Cooking",
+    "Gaming"
+  ]
+}
